@@ -16,8 +16,8 @@
         "enhanceTime" : "13:35",
         "enterpriseId" : 47297665,
         "enterpriseName" : "abcdefg",
-        "enterprisePost" : "",
-        "enterpriseShortName" : "abcdefg",
+        "enterprisePost" : "产品",
+        "enterpriseShortName" : "普华集团",
         "followFlag" : 0,
         "forwardNum" : 0,
         "id" : 60757505946,
@@ -27,7 +27,8 @@
         "state" : 1,
         "type" : 1,
         "updateTime" : "2021-04-12 13:35:20",
-        "userInfoName" : "152****8873"
+        "userInfoName" : "周红岩",
+        "userInfoPhoto" : "https://test-k8s-oss.peogoo.com/test-shangwuyou/images/92db40277bcb42b8a56eaba8ea9fda57.png"
     },
     {
         "apiUserId" : 47297161,
@@ -46,8 +47,8 @@
         "enhanceTime" : "13:35",
         "enterpriseId" : 47297641,
         "enterpriseName" : "abcdefg",
-        "enterprisePost" : "",
-        "enterpriseShortName" : "abcdefg",
+        "enterprisePost" : "测试",
+        "enterpriseShortName" : "普华集团",
         "followFlag" : 0,
         "forwardNum" : 0,
         "id" : 60047396141,
@@ -57,7 +58,8 @@
         "state" : 1,
         "type" : 1,
         "updateTime" : "2021-04-12 13:35:15",
-        "userInfoName" : "178****1983"
+        "userInfoName" : "姜石学",
+        "userInfoPhoto" : "https://test-k8s-oss.peogoo.com/test-shangwuyou/images/9f3f4345209a4131aeeb245d1667342c.jpeg"
     },
     {
         "apiUserId" : 47297227,
@@ -76,8 +78,8 @@
         "enhanceTime" : "13:34",
         "enterpriseId" : 47297521,
         "enterpriseName" : "abcdefg",
-        "enterprisePost" : "",
-        "enterpriseShortName" : "abcdefg",
+        "enterprisePost" : "董事",
+        "enterpriseShortName" : "北京全新建设集团",
         "followFlag" : 0,
         "forwardNum" : 0,
         "id" : 60791510189,
@@ -87,6 +89,7 @@
         "state" : 1,
         "type" : 1,
         "updateTime" : "2021-04-12 13:34:55",
-        "userInfoName" : "152****4893"
+        "userInfoName" : "段先生",
+        "userInfoPhoto" : "https://test-k8s-oss.peogoo.com/test-shangwuyou/images/9f3f4345209a4131aeeb245d1667342c.jpeg"
     }
 ]
